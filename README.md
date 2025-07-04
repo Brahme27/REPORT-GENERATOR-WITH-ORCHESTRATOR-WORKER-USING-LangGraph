@@ -4,6 +4,7 @@
 
 1) pip install -r requirements.txt
 2) python "file_name".py
+3) Make sure to add .env file with your own groq API key
 
 ### Explanation
 
